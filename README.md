@@ -28,7 +28,7 @@ dbms_output.put_line("Hello World!")
  
  ![Happy Dance](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
  
- Lol, that's not me tho 🙂
+ Lol, that's not me tho 🙂, but I'm coding smiles too so it's the same.
 
 <!---
 Abuka-Victor/Abuka-Victor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
