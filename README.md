@@ -7,13 +7,18 @@ A dedicated software engineer from Nigeria 🇳🇬.
 - 💻 Learning at ALX - Cloud Development and Software Engineering
 - ✍🏾 Writing tutorials and thoughts on [Dev.to](https://dev.to/abukavictor) and [Medium](https://medium.com/@bkvtr)
 - ❤️ I absolutely adore Python and JavaScript
-
-<p align="left">
- I enjoy my work because it lets me impact my society in a way that solves real problems for people. Thus, I am engineering a more comfortable existence for humanity. You can call me a magician. When I'm not coding I do love to listen to music, play games and watch anime. My favorite saying is from a chinese proverb - **Cut your own wood and it will warm you twice**. Feel free to reach out to me via my social handles. Here is a rare gif of me coding 
- </p>
  
- <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
  
+ <table>
+ <tr>
+ <td>
+ <p>I enjoy my work because it lets me impact my society in a way that solves real problems for people. Thus, I am engineering a more comfortable existence for humanity. You can call me a magician. When I'm not coding I do love to listen to music, play games and watch anime. My favorite saying is from a chinese proverb - **Cut your own wood and it will warm you twice**. Feel free to reach out to me via my social handles. Here is a rare gif of me coding</p>
+ </td>
+ <td>
+ <img align="center" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width=500 height=300/>
+ </td>
+ </tr>
+ </table>
  
  Lol, that's not me tho 🙂, but I'm coding smiles too so it's the same.
  
