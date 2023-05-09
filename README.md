@@ -4,7 +4,7 @@ A dedicated software engineer from Nigeria 🇳🇬.
 # ABOUT ME
 - 📚 Studying Electrical Electronics Engineering @ University of Ibadan, Lagos, Nigeria.
 - 👨🏾‍🏫 Teaching code on [Youtube](https://www.youtube.com/channel/UCcQ9ykSZCDjpr9VSobSBlwg) and NIIT, Nigeria
-- 💻 Learning at ALX - Cloud Development and Software Engineering
+- 💻 Learned at ALX - Cloud Development and Software Engineering
 - ✍🏾 Writing tutorials and thoughts on [Dev.to](https://dev.to/abukavictor) and [Medium](https://medium.com/@bkvtr)
 - ❤️ I absolutely adore Python and JavaScript
  
