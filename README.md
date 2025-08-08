@@ -1,12 +1,12 @@
 <h1 align="center">👋🏾 Hi there, I am Abuka Victor </h1>
 
-A dedicated software engineer from Nigeria 🇳🇬. 
+A software engineer from Nigeria 🇳🇬. 
 # ABOUT ME
 - 📚 Studying Electrical Electronics Engineering @ University of Ibadan, Lagos, Nigeria.
 - 👨🏾‍🏫 Teaching code on [Youtube](https://www.youtube.com/channel/UCcQ9ykSZCDjpr9VSobSBlwg) and NIIT, Nigeria
 - 💻 Learned at ALX - Cloud Development and Software Engineering
 - ✍🏾 Writing tutorials and thoughts on [Dev.to](https://dev.to/abukavictor) and [Medium](https://medium.com/@bkvtr)
-- ❤️ I absolutely adore Python and JavaScript
+- ❤️ I absolutely adore Python and JavaScript but I'm getting more into low level programming nowadays
  
  
  <table>
