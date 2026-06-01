@@ -6,6 +6,7 @@ A software engineer from Nigeria 🇳🇬.
 - 👨🏾‍🏫 Teaching code on [Youtube](https://www.youtube.com/channel/UCcQ9ykSZCDjpr9VSobSBlwg) and NIIT, Nigeria
 - 💻 Learned at ALX - Cloud Development and Software Engineering
 - ✍🏾 Writing tutorials and thoughts on [Dev.to](https://dev.to/abukavictor) and [Medium](https://medium.com/@bkvtr)
+- You can also checkout [My website](https://www.victorabuka.com/)
 - ❤️ I absolutely adore Python and JavaScript but I'm getting more into low level programming nowadays
  
  
