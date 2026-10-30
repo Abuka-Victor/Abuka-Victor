@@ -2,7 +2,7 @@
 
 A software engineer from Nigeria 🇳🇬. 
 # ABOUT ME
-- 📚 Studying Electrical Electronics Engineering @ University of Ibadan, Lagos, Nigeria.
+- 📚 Studied Electrical Electronics Engineering @ University of Ibadan, Lagos, Nigeria. Class of 2026
 - 👨🏾‍🏫 Teaching code on [Youtube](https://www.youtube.com/channel/UCcQ9ykSZCDjpr9VSobSBlwg) and NIIT, Nigeria
 - 💻 Learned at ALX - Cloud Development and Software Engineering
 - ✍🏾 Writing tutorials and thoughts on [Dev.to](https://dev.to/abukavictor) and [Medium](https://medium.com/@bkvtr)
